@@ -1,0 +1,54 @@
+#basliq .row {
+  height: 65px;
+  border-right: 1px solid #BBBBBB;
+  border-left: 1px solid #BBBBBB;
+  border-bottom: 1px solid #BBBBBB; }
+  #basliq .row .col-md-7 {
+    padding-left: 0px;
+    padding-right: 0px; }
+    #basliq .row .col-md-7 .col-md-1 {
+      padding-left: 0px;
+      padding-right: 0px; }
+      #basliq .row .col-md-7 .col-md-1 .language {
+        border-right: 1px solid #BBBBBB;
+        width: 70px;
+        height: 65px; }
+    #basliq .row .col-md-7 .col-md-2 {
+      padding-right: 0px; }
+      #basliq .row .col-md-7 .col-md-2 .ex {
+        width: 70px;
+        height: 65px;
+        border-right: 1px solid #BBBBBB; }
+    #basliq .row .col-md-7 .col-md-9 {
+      padding-left: 0px;
+      padding-right: 0px; }
+#basliq .col-md-5 {
+  padding-left: 0px;
+  padding-right: 0px; }
+  #basliq .col-md-5 .col-md-7 {
+    padding-left: 0px;
+    padding-right: 0px;
+    border-right: 1px solid #BBBBBB;
+    height: 65px; }
+    #basliq .col-md-5 .col-md-7 .login p {
+      float: right; }
+#basliq .col-md-5 .serch {
+  width: 70px;
+  height: 65px;
+  border-right: 1px solid #BBBBBB; }
+  #basliq .col-md-5 .serch i {
+    margin: 16px 0 0 12px;
+    font-size: 31px; }
+#basliq .col-md-5 .cart {
+  margin-left: 40px;
+  width: 70px;
+  height: 65px;
+  border-right: 1px solid #BBBBBB; }
+  #basliq .col-md-5 .cart i {
+    margin: 14px 0 0 14px;
+    font-size: 34px; }
+
+#logo .row .col-md-4 img {
+  margin: 25px 0 25px 18px; }
+
+/*# sourceMappingURL=main.css.map */
